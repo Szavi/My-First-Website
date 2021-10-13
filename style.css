@@ -1,0 +1,55 @@
+body {
+  background-image: "assets/topography.png";
+  font-family: Courier;
+  margin: 20px 20px 20px 20px;
+}
+  .navbar {
+    background-color: black;
+    text-align: right;
+    font-family: Courier; 
+    color: #333333; 
+    height: 50px;
+    }
+ .h1 {
+      color: #333333; 
+      font-family: Courier; 
+      text-align:center
+      }
+ .h2 {
+      color: #ff0099; 
+      text-align:center
+      }
+  .head {
+    text-align: center;
+    color: #333333;  
+    font-family: courier; 
+    text-align: center;
+
+  }
+  .job{ 
+    color: #ff0099; 
+    text-align:center;
+  }
+}
+.description{ 
+  color: #ff0099; 
+  text-align:center;
+}
+  .class {
+    background-color: black;
+  }
+  .hr {
+    border-top: 1px solid red;
+  }
+  .title{
+    text-align:center;
+    font-family: Courier;
+    font-size: 30px;; 
+  }
+  
+  .definition {
+    text-align:center;
+    padding-left:130px;
+    padding-right: 130px;
+
+  }
